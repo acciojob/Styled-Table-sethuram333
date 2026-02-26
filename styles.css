@@ -1,1 +1,42 @@
 /* your code */
+/* Table container */
+.container {
+  width: 100%; 
+  border:1px solid #dddddd;  
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  border-spacing: 0;
+  overflow: hidden;
+
+}
+
+/* Header styling */
+.header {
+   background-color:#215a8e;
+   color: white;
+   
+}
+
+.header th {
+  padding: 12px;
+	text-align:left
+}
+
+/* Table cells */
+td {
+  padding: 12px;
+	
+  
+}
+
+/* First row background */
+.row-1 {
+  background-color: white;
+}
+
+/* Second row background */
+.row-2 {
+  background-color:#dddddd;
+}
+
+
